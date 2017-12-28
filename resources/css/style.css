@@ -33,3 +33,10 @@ h2 {
   font-size: 21px;
   color: gray;
 }
+
+.footer {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+  text-align: right;
+}
