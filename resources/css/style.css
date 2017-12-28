@@ -8,9 +8,16 @@ a {
   font-size: 16px;
 }
 
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
 .link1 {
   font-family: Verdana;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 .heading {
@@ -19,4 +26,10 @@ a {
   font-size: 50px;
   color: white;
   text-align: center;
+}
+
+.description {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
 }
